@@ -1,0 +1,15 @@
+{
+  "name": "temp-by-zip",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.3",
+    "express": "^4.14.0",
+    "forecastio": "^1.0.2",
+    "zippity-do-dah": "^0.0.2"
+  }
+}
